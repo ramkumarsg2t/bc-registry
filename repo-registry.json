@@ -2,6 +2,7 @@
 	"repos" :[
 		{
 			"name" : "Foundation",
+			"version" : "4.0",
 			"username" : "ramkumarsg2t",
 			"repository" : "bc-foundation",
 			"createdon" : 1414178134381,
@@ -9,6 +10,7 @@
 		},
 		{
 			"name" : "Bootstrap",
+			"version" : "3.0",
 			"username" : "ramkumarsg2t",
 			"repository" : "bc-bootstrap",
 			"createdon" : 1414178134381,

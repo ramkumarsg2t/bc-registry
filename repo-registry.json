@@ -1,0 +1,14 @@
+{
+	"repos" :[
+		{
+			"name" : "Foundation",
+			"username" : "ramkumarsg2t",
+			"repository" : "bc-foundation"
+		},
+		{
+			"name" : "Bootstrap",
+			"username" : "ramkumarsg2t",
+			"repository" : "bc-bootstrap"
+		}
+	]	
+}
